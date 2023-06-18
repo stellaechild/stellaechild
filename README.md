@@ -46,7 +46,6 @@ I aim to finish a few projects of my own with Python and I also hope to learn Ja
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellaechild&layout=compact&theme=radical)](https://github.com/stellaechild)
   
-[![stellaechild’s github stats](https://github-readme-stats.vercel.app/api?username=stellaechild&count_private=true&theme=radical)](https://github.com/stellaechild)
 
 
 ### 📫 How to reach me:
