@@ -1,5 +1,5 @@
 ## Hey there! 👋
-My name is Maria and I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my degree in Software Engineering.
+My name is Maria and I´m a student [@University of Minho](https://www.uminho.pt/PT), currently getting my Masters degree in Software Engineering.
 Here's [every project](https://github.com/stellaechild/uminho) I have completed during it.<br />
 
 
