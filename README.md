@@ -8,10 +8,10 @@ Here's [every project](https://github.com/stellaechild/uminho) I have completed 
 <br />
 
 ### 📖 Languages I have worked with :
-  <a href="https://www.haskell.org/documentation/"><img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=45px alt="haskell-icon"></a>
-  <a href="https://devdocs.io/c/"><img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=45px alt="c-icon"></a>
- <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html"><img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=55px alt="java-icon"></a>
- <a href="https://docs.python.org/release/3.11.1/library/index.html"><img src="https://www.python.org/static/img/python-logo@2x.png" width=130px alt="python-icon"></a>
+<a href="https://www.haskell.org/documentation/"><img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=45px alt="haskell-icon"></a>
+<a href="https://devdocs.io/c/"><img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=45px alt="c-icon"></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html"><img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=55px alt="java-icon"></a>
+<a href="https://docs.python.org/release/3.11.1/library/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=45px alt="python-icon"></a>
 
 <br />
 
@@ -26,18 +26,13 @@ Here's [every project](https://github.com/stellaechild/uminho) I have completed 
 
 
 ### 📚 Extracurricular:
-I am also a member on the student council of Software Engineering [@University of Porto](https://sigarra.up.pt/feup/pt/web_page.inicial), [NCGM](https://ncgm.fe.up.pt/pt/home). I am part of the Image Department which has widened my skillset, having learned how to work with a few more programs I'll list below. I have also contributed to a few workshops, namely in [Introduction to Unity 2021](https://github.com/ncgmfeup/Introduction_to_Unity_2021) where I took an active role in designing sprites and rendering animations for the event.
+I was a member on the student council of Software Engineering, from 2020 to 2022 [@University of Porto](https://sigarra.up.pt/feup/pt/web_page.inicial), [NCGM](https://ncgm.fe.up.pt/pt/home). I was part of the Image Department which has widened my skillset, having learned how to work with a few more programs I'll list below. I have also contributed to a few workshops, namely in [Introduction to Unity 2021](https://github.com/ncgmfeup/Introduction_to_Unity_2021) where I took an active role in designing sprites and rendering animations for the event.
+Additionally, I became a mentor at [@CoderDojo](https://coderdojobraga.org/) in 2024 and remain active in this role, teaching children aged 7 to 17 the fundamentals of programming. I teach both Python and Scratch, a beginner-friendly visual programming language.
 <br />
 #### 🛠️ Tools I acquired:
 [![Figma](https://img.shields.io/badge/Figma-logo.svg?style=for-the-badge&logo=Figma&labelColor=black&color=black)](https://www.figma.com)
 [![Krita](https://img.shields.io/badge/Krita-logo.svg?style=for-the-badge&logo=Krita&labelColor=black&color=black)](https://krita.org/en/)
 [![Trello](https://img.shields.io/badge/Trello-logo.svg?style=for-the-badge&logo=Trello&labelColor=black&color=black)](https://trello.com/en)
-
-
-<br />
-
-### 📂 Personal projects :
-I aim to finish a few projects of my own with Python and I also hope to learn JavaScript. When they're done I will upload them!
 
 
 <br />
