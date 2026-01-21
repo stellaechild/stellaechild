@@ -23,7 +23,6 @@ My name is Maria, and I am a student at [University of Minho](https://www.uminho
 <br />
 
 ### 💼 Experience
-<br />
 <b>Summer Internship — [Accenture](https://www.accenture.com/pt-pt)</b><br>
 <i>Summer 2023</i> <br />
 - Worked on AR/VR applications using Unity  <br />
