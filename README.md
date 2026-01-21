@@ -1,19 +1,24 @@
 ## Hey there! 👋
-My name is Maria, and I am a student at [University of Minho](https://www.uminho.pt/PT), currently pursuing a Master’s degree in Software Engineering. Here are the [projects](https://github.com/stellaechild/uminho) I have completed as part of this programme.
+My name is Maria, and I am a student at [University of Minho](https://www.uminho.pt/PT), currently pursuing a Master’s degree in Software Engineering with a focus on NLP and Formal Methods. Here are the [projects](https://github.com/stellaechild/uminho) I have completed as part of this programme.
 
 
 
 <br />
 
-### 📖 Languages I have worked with :
+### 📖 Languages I have worked with 
 <a href="https://www.haskell.org/documentation/"><img src="https://user-images.githubusercontent.com/62104686/142400954-7afaf2dd-8895-4635-9891-064742925ff0.png" width=45px alt="haskell-icon"></a>
 <a href="https://devdocs.io/c/"><img src="https://user-images.githubusercontent.com/62104686/142401436-ef904c55-7d35-4d15-a5fc-6cb57cd5bfc7.png" width=45px alt="c-icon"></a>
 <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html"><img src="https://user-images.githubusercontent.com/62104686/142401190-df78b2c6-2bfc-4ead-96bc-bd09951071fb.png"  width=55px alt="java-icon"></a>
 <a href="https://docs.python.org/release/3.11.1/library/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=45px alt="python-icon"></a>
+<a href="https://dev.mysql.com/doc/refman/8.4/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45px" alt="MySQL logo"></a>
+<a href="https://lamport.azurewebsites.net/tla/tla.html"><img src="https://img.shields.io/badge/TLA+-4B0082?style=for-the-badge" width="65px" alt="TLA+ logo"></a>
+<a href="https://www.why3.org/#documentation"><img src="https://img.shields.io/badge/WHY3-5A5A5A?style=for-the-badge" width="70px" alt="Why3 logo"></a>
+<a href="https://www.w3.org/TR/sparql11-query/"><img src="https://img.shields.io/badge/SPARQL-000000?style=for-the-badge" width="85px" alt="SPARQL logo"></a>
 
-<br />
-
-### 🖥️ Tools I use :
+### 🖥️ Development Tools / IDEs 
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+![Protégé](https://img.shields.io/badge/Prot%C3%A9g%C3%A9-2E8B57?style=for-the-badge)
+![GraphDB](https://img.shields.io/badge/GraphDB-003A8F?style=for-the-badge)
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
