@@ -17,14 +17,13 @@ My name is Maria, and I am a student at [University of Minho](https://www.uminho
 
 ### 🖥️ Development Tools / IDEs 
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-![Protégé](https://img.shields.io/badge/Prot%C3%A9g%C3%A9-2E8B57?style=for-the-badge)
-![GraphDB](https://img.shields.io/badge/GraphDB-003A8F?style=for-the-badge)
+[![Protégé](https://img.shields.io/badge/Prot%C3%A9g%C3%A9-2E8B57?style=for-the-badge&logo=semanticweb&logoColor=white)](https://protege.stanford.edu/)
+[![GraphDB](https://img.shields.io/badge/GraphDB-003A8F?style=for-the-badge&logo=graphcool&logoColor=white)](https://graphdb.ontotext.com/)
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](www.sublimetext.com)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
 <br />
 
 ### 💼 Experience
