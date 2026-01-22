@@ -1,5 +1,5 @@
 ## Hey there! 👋
-My name is Maria, and I am a student at [University of Minho](https://www.uminho.pt/PT), currently pursuing a Master’s degree in Software Engineering with a focus on NLP and Formal Methods. Here are the [projects](https://github.com/stellaechild/uminho) I have completed as part of this programme.
+My name is Maria, and I am a student at [University of Minho](https://www.uminho.pt/PT), currently finishing a Master’s degree in Software Engineering with a focus on NLP and Formal Methods. Here are the [projects](https://github.com/stellaechild/uminho) I have completed as part of this programme.
 
 
 
