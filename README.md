@@ -35,7 +35,7 @@ My name is Maria, and I am a student at [University of Minho](https://www.uminho
 <br />
 
 ### 📚 Extracurricular:
-I was a member of the Software Engineering Student Council at [University of Porto](https://sigarra.up.pt/feup/pt/web_page.inicial) ([NCGM](https://ncgm.fe.up.pt/pt/home)) from 2020 to 2022. As part of the Image Department, I expanded my skill set by learning to work with additional design and multimedia tools. I also contributed to several workshops, including [Introduction to Unity 2021](https://github.com/ncgmfeup/Introduction_to_Unity_2021), where I played an active role in designing sprites and rendering animations for the event.
+I was a member of the Software Engineering Student Council at [University of Porto](https://sigarra.up.pt/feup/pt/web_page.inicial) ([NCGM](https://ncgm.fe.up.pt/pt/home)) from 2021 to 2023. As part of the Image Department, I expanded my skill set by learning to work with additional design and multimedia tools. I also contributed to several workshops, including [Introduction to Unity 2021](https://github.com/ncgmfeup/Introduction_to_Unity_2021), where I played an active role in designing sprites and rendering animations for the event.
 <br />
 Additionally, I became a mentor at [@CoderDojo](https://coderdojobraga.org/) in 2024 and remain active in this role, teaching children aged 7 to 17 the fundamentals of programming. I teach both Python and Scratch, a beginner-friendly visual programming language.
 <br />
